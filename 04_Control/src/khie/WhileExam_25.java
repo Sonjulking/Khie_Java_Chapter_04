@@ -33,9 +33,9 @@ public class WhileExam_25 {
 
 		}
 
-		System.out.println("1부터 " + inputNum + "의 홀수의 합은" + oddSum);
+		System.out.println("1부터 " + inputNum + "의 홀수의 합은 " + oddSum);
 
-		System.out.println("1부터 " + inputNum + "의 짝수의 합은" + evenSum);
+		System.out.println("1부터 " + inputNum + "의 짝수의 합은 " + evenSum);
 
 		sc.close();
 
