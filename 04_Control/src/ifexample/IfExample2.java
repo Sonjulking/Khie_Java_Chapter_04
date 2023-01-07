@@ -4,7 +4,7 @@ public class IfExample2 {
 
 	public static void main(String[] args) {
 
-		int age = 9;
+		int age = 71;
 		int charge = 0;
 
 		if (age < 8) {
