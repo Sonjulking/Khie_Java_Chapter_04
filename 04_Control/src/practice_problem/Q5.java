@@ -1,6 +1,6 @@
 package practice_problem;
 
-public class Q4 {
+public class Q5 {
 
 	public static void main(String[] args) {
 
@@ -23,5 +23,19 @@ public class Q4 {
 
 		}
 
+		for (line = 3; line > 0; line--) {
+
+			for (leftSpace = 4 - line; leftSpace > 0; leftSpace--) {
+
+				System.out.print(" ");
+			}
+			for (star = line * 2; star > 1; star--) {
+
+				System.out.print("*");
+
+			}
+			System.out.println();
+
+		}
 	}
 }
