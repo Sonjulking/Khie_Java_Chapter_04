@@ -11,7 +11,6 @@ public class Q4 {
 		for (line = 0; line < 4; line++) {
 
 			for (leftSpace = 1; leftSpace < 4 - line; leftSpace++) {
-
 				System.out.print(" ");
 			}
 			for (star = 0; star < line * 2 + 1; star++) {
